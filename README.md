@@ -12,10 +12,34 @@ I'm Nico, a data scientist and tech enthusiast!
 
 ## Tech stack:
 
-- **Main Languages:** Python 🐍, JavaScript <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/32901e8a-befb-4c19-ab5d-7c4b96923f9c" alt="image" width="20"/> (Node.js) <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/cdd864c7-211a-403d-b64e-5ed45881f4e5" alt="image" width="20"/>
-- **Tools & Frameworks:** Express, Fastapi <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/7cc19590-8d7c-478e-880f-7ecf1ed0ea82" alt="image" width="20"/>, Flask <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/847a567f-4363-4aba-8bf9-8fd68b414993" alt="image" width="20"/>, Ollama <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/09c06b92-36cf-4a80-9c32-824297b614cb" alt="image" width="20"/>, TensorFlow <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/ca9dc7e5-eb06-486a-adb4-d1c081f837ec" alt="image" width="20"/>.
-- **Databases:** Postgresql <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/26781f4b-9ec3-4987-a157-6364107f0d97" alt="image" width="20"/>, MongoDB <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/1e39f653-5579-4668-a89f-1a597074e3f2" alt="image" width="20"/>, Redis  <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/0994a6d1-b103-4c81-8ffa-e2802c5e029e" alt="image" width="20"/>
-- **Other:** Docker <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/d9699ed0-eb72-450e-b055-4048452cc549" alt="image" width="20"/>, Git <img src="https://github.com/NicoBetancourt/NicoBetancourt/assets/110423467/7828852e-75af-4ad2-9a93-2e0e7297095e" alt="image" width="20"/>.
+- **Back-end stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-679e63.svg?&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black.svg?&logo=express&logoColor=white) 
+
+- **Databases:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PgVector-gray?logo=postgresql&logoColor=white&labelColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52.svg?&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-a51f17.svg?&logo=redis&logoColor=white)  
+
+
+- **Tools & AI:** 
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-8E75B2?&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?&logo=ollama&logoColor=black)
+![Openai](https://img.shields.io/badge/OpenAI-412991?&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?&logo=anthropic&logoColor=white)
+
+- **Other:**
+
+![Docker](https://img.shields.io/badge/Docker-099cec.svg?&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white) 
   
 <!--
 **NicoBetancourt/NicoBetancourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

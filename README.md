@@ -5,6 +5,7 @@
 I'm Nico, a data scientist and tech enthusiast!
 
 - 🔎 I currently work as a data scientist at a technology company in the applied innovation team.
+- 🤖 I have experience orchestrating LLM and RAG, Agents, MCP.
 - 🖥️ I also have experience as a backend developer in Node.js and Python.
 - 🤓 I completed my master's in Intelligent Systems in 2024, and I love sharing my knowledge.
 - ⚡ I'm an electrical engineer and have experience working in the electrical industry.
@@ -37,9 +38,12 @@ I'm Nico, a data scientist and tech enthusiast!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-8E75B2?&logo=opencv&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-white?&logo=ollama&logoColor=black)
+
+- **LLM**
+
 ![Openai](https://img.shields.io/badge/OpenAI-412991?&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?&logo=anthropic&logoColor=white)
+
 
 - **Infrastructure**
 

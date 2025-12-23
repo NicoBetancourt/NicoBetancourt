@@ -24,7 +24,7 @@ I'm Nico, a data scientist and tech enthusiast!
 - **Front-end**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?&logo=nextdotjs&logoColor=white)
-![html](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white)
 
 - **Database**
 
@@ -41,8 +41,12 @@ I'm Nico, a data scientist and tech enthusiast!
 
 - **LLM**
 
-![Openai](https://img.shields.io/badge/OpenAI-412991?&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?&logo=anthropic&logoColor=white)
+![Openai](https://img.shields.io/badge/OpenAI-black?&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?&logo=googlegemini&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic--ai-E92063?&logo=pydantic&logoColor=white&labelColor=E92063)
+![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?&logo=modelcontextprotocol&logoColor=white)
 
 
 - **Infrastructure**
